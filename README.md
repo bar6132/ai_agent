@@ -70,7 +70,7 @@ The agent supports multiple file formats, ensuring compatibility with diverse do
 ## 🤖 Example Usage
 
 ```bash
-python main.py --input yourfile.pdf
+python main.py 
 ```
 
 - **Input**: Upload a documentation file or an existing codebase.
