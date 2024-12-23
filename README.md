@@ -44,7 +44,7 @@ The agent supports multiple file formats, ensuring compatibility with diverse do
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/ai-project-starter-agent.git
+   git clone https://github.com/bar6132/ai_agent
    ```
 2. Navigate to the project directory:
    ```bash
