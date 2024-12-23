@@ -76,14 +76,6 @@ python main.py --input yourfile.pdf
 - **Input**: Upload a documentation file or an existing codebase.
 - **Output**: A fully initialized project or a refined codebase ready for deployment.
 
-## 🛡️ License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/ai-project-starter-agent/issues) or submit a pull request.
-
 ## 💡 Acknowledgments
 
 Special thanks to:
